@@ -1,6 +1,4 @@
-# Pitch Controller (Rust)
-
-Cross-platform port of the macOS app. The pipeline is the same: microphone, YIN pitch detection, smoother, pitch bands, then keyboard injection into the focused emulator.
+# Pitch Controller
 
 It runs on macOS, Windows, and Linux.
 
